@@ -1,4 +1,4 @@
-Automatic Fish Feeder
+**Automatic Fish Feeder**
 
 The Automatic Fish Feeder is a smart device that automates the feeding process for fish, providing timely and precise feeding to ensure their health and well-being. Designed for both aquarium enthusiasts and commercial aquaculture, this system integrates IoT, Arduino-based controls, and sensors to streamline feeding routines, monitor water temperature, and notify users when food is running low.
 
